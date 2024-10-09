@@ -3,7 +3,7 @@
 [Quang Vinh Nguyen](https://github.com/HashmatShadab), 
 Hoang Son Vo Thanh,
 Sae Ryung Kang,
-Soo Hyung Kim,
+Soo Hyung Kim
 
 Official PyTorch implementation
 
