@@ -1,7 +1,7 @@
 # **Polyp-SES: Automatic Polyp Segmentation with Self-Enriched Semantic Model [ACCV 2024]** 
 
 [Quang Vinh Nguyen](https://github.com/HashmatShadab), 
-Hoang Son Vo Thanh(https://github.com/sowwnn),
+[Hoang Son Vo Thanh](https://github.com/sowwnn),
 Sae Ryung Kang,
 Soo Hyung Kim
 
