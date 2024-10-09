@@ -12,7 +12,7 @@ Official PyTorch implementation
 
 # :fire: News
 * **(September 21, 2024)**
-  * Paper accepted at ACCV 2024! ⭐
+  * Paper accepted at ACCV 2024 (Rank B) ! ⭐
 * **(July 5, 2024)**
-  * Paper submitted at ACCV 2024! ⌚
+  * Paper submitted at ACCV 2024 (Rank B) ! ⌚
 <hr />
