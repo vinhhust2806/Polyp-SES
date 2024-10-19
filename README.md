@@ -5,7 +5,7 @@
 Sae Ryung Kang,
 Soo Hyung Kim
 
-Official PyTorch implementation
+Official PyTorch implementation will be updated **soon**!
 
 <hr />
 
